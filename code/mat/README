@@ -1,0 +1,8 @@
+Description of .mat-files in this directory.
+
+iscStations.mat     :       iscStations.m     :     List of seismic stations usen in this study
+stationList.mat     :       statotionList.m   :     Creates a list of usable seismic stations in model area. Depends on iscStations.mat
+model.mat           :       model.m           :     Basic information about velocity model
+discret.mat         :       discretizeModel.m :     Discretization of model
+coastUTM.mat        :       drawCoastline.m   :     Extracts coastline-coordinates of model area
+V_(res)_(wave).mat  :       create3Dgrids.m   :     Assembles 3D-grids from EuCRUST07/TPZ data-files

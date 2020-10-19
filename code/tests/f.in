@@ -1,0 +1,13 @@
+  &pltpar
+    iwrite=0, iout=1, itimes=-1,
+  &end
+  &axepar
+  &end
+  &propar
+    i2d=1, istop=0, tmax=200, nreverse=0, reverse=2, 
+  &end
+  &srcpar
+     inear=0, vabove=4.0, vbelow=4.0,
+     isource=1*1,
+     xsource= 0.00,
+     ysource= 0.00,

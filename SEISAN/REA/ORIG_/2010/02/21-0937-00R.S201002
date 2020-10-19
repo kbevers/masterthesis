@@ -1,0 +1,20 @@
+ 2010  219 2108 59.3 R  56.891   7.524 22.0FFDNK111 0.9 4.3LDNK 4.0WDNK        1
+ 2010  221 0939 25.3 R  57.150   8.127  8.1  DNK  5 0.7 1.8LDNK                1
+ GAP=198        1.69       9.8    29.4 28.4  0.2588E+03 -0.7481E+03 -0.2310E+03E
+ ACTION:SPL 11-09-19 12:44 OP:ke   STATUS:               ID:20100221093700     I
+ 2010-02-21-0937-00S.DNK___031                                                 6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ SNARTEZ EP        939 48.34                              66   -0.2010  145 338 
+ SNARTEE ES        940  5.94                              66    0.4010  145 338 
+ SNARTEZ  AML      940  7.73         3.3 0.32                           145 338 
+ STRU BZ EP        940  5.60                              49   -0.7210  277  39 
+ STRU BE IS        940 36.65                              49    0.3610  277  39 
+ BORU BZ EP        940  7.66                              49    0.3710  284  77 
+ BORU BE IS        940 38.36                              49    0.4010  284  77 
+ DEL  BZ EP        940 25.04                              49    8.48 0  359 100 
+ DEL  BN IS        940 52.95                              49   -1.0510  359 100 
+ MUD  HZ IPn  4    939 45.34                                                    
+ MUD  HZ EP        939 41.05                              66   -0.7110 99.8 140 
+ MUD  HE IS        939 54.90                              66    1.1010 99.8 140 
+ MUD  HZ  AML      939 55.25        15.3 0.38                          99.8 140 
+                                                                                

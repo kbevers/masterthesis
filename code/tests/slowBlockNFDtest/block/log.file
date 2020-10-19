@@ -1,0 +1,391 @@
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:              10427514
+total number of nodes plotted:                   0
+total number of stencils calculated:      76112257
+total number of negative square roots:          34
+total number of causality violations:       108586
+total number of headwave stencils used:         25
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  9713915     B:    96559    B2:   611345     C:      244
+    C2:        0    C1:     4976    D2:       24    D1:        1
+percentages:
+     A:  93.161     B:   0.926    B2:   5.863     C:   0.002
+    C2:   0.000    C1:   0.048    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:              10427514
+total number of nodes plotted:                   0
+total number of stencils calculated:      76154057
+total number of negative square roots:         315
+total number of causality violations:       127888
+total number of headwave stencils used:         76
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  9737749     B:    96665    B2:   587205     C:      255
+    C2:        0    C1:     5114    D2:       64    D1:       12
+percentages:
+     A:  93.389     B:   0.927    B2:   5.632     C:   0.002
+    C2:   0.000    C1:   0.049    D2:   0.001    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43117915
+total number of negative square roots:           0
+total number of causality violations:          230
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5884436     B:    58071    B2:   355371     C:      138
+    C2:        0    C1:     4090    D2:        0    D1:        0
+percentages:
+     A:  93.373     B:   0.921    B2:   5.639     C:   0.002
+    C2:   0.000    C1:   0.065    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43117915
+total number of negative square roots:           0
+total number of causality violations:          230
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5884436     B:    58071    B2:   355371     C:      138
+    C2:        0    C1:     4090    D2:        0    D1:        0
+percentages:
+     A:  93.373     B:   0.921    B2:   5.639     C:   0.002
+    C2:   0.000    C1:   0.065    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43200341
+total number of negative square roots:           0
+total number of causality violations:          590
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5995283     B:   294976    B2:     8877     C:     2508
+    C2:        0    C1:      162    D2:        0    D1:        0
+percentages:
+     A:  95.136     B:   4.681    B2:   0.141     C:   0.040
+    C2:   0.000    C1:   0.003    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43117915
+total number of negative square roots:           0
+total number of causality violations:          230
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5884436     B:    58071    B2:   355371     C:      138
+    C2:        0    C1:     4090    D2:        0    D1:        0
+percentages:
+     A:  93.373     B:   0.921    B2:   5.639     C:   0.002
+    C2:   0.000    C1:   0.065    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43117915
+total number of negative square roots:           0
+total number of causality violations:          230
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5884436     B:    58071    B2:   355371     C:      138
+    C2:        0    C1:     4090    D2:        0    D1:        0
+percentages:
+     A:  93.373     B:   0.921    B2:   5.639     C:   0.002
+    C2:   0.000    C1:   0.065    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43176613
+total number of negative square roots:           0
+total number of causality violations:          539
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5910016     B:    58142    B2:   329690     C:      129
+    C2:        0    C1:     4129    D2:        0    D1:        0
+percentages:
+     A:  93.778     B:   0.923    B2:   5.231     C:   0.002
+    C2:   0.000    C1:   0.066    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43171844
+total number of negative square roots:           0
+total number of causality violations:          570
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5902298     B:    58010    B2:   337545     C:      129
+    C2:        0    C1:     4124    D2:        0    D1:        0
+percentages:
+     A:  93.656     B:   0.920    B2:   5.356     C:   0.002
+    C2:   0.000    C1:   0.065    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43169759
+total number of negative square roots:           0
+total number of causality violations:          562
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5897758     B:    57989    B2:   342077     C:      129
+    C2:        0    C1:     4153    D2:        0    D1:        0
+percentages:
+     A:  93.584     B:   0.920    B2:   5.428     C:   0.002
+    C2:   0.000    C1:   0.066    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43176813
+total number of negative square roots:           0
+total number of causality violations:         1083
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5910287     B:    58655    B2:   328382     C:      207
+    C2:        0    C1:     4575    D2:        0    D1:        0
+percentages:
+     A:  93.783     B:   0.931    B2:   5.211     C:   0.003
+    C2:   0.000    C1:   0.073    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43182518
+total number of negative square roots:           0
+total number of causality violations:         1390
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5896910     B:    65070    B2:   334363     C:      334
+    C2:        0    C1:     5429    D2:        0    D1:        0
+percentages:
+     A:  93.570     B:   1.033    B2:   5.306     C:   0.005
+    C2:   0.000    C1:   0.086    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43179379
+total number of negative square roots:           0
+total number of causality violations:         1976
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5889516     B:    65083    B2:   340968     C:      829
+    C2:        0    C1:     5710    D2:        0    D1:        0
+percentages:
+     A:  93.453     B:   1.033    B2:   5.410     C:   0.013
+    C2:   0.000    C1:   0.091    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43181405
+total number of negative square roots:           0
+total number of causality violations:         2367
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5875933     B:   101116    B2:   318071     C:     1237
+    C2:        0    C1:     5749    D2:        0    D1:        0
+percentages:
+     A:  93.238     B:   1.604    B2:   5.047     C:   0.020
+    C2:   0.000    C1:   0.091    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         6
+total number of nodes timed:               6302556
+total number of nodes plotted:                   0
+total number of stencils calculated:      43179264
+total number of negative square roots:           0
+total number of causality violations:         2201
+total number of headwave stencils used:          0
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A:  5876675     B:    90557    B2:   328456     C:      933
+    C2:        0    C1:     5485    D2:        0    D1:        0
+percentages:
+     A:  93.249     B:   1.437    B2:   5.212     C:   0.015
+    C2:   0.000    C1:   0.087    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              64801701
+total number of nodes plotted:                   0
+total number of stencils calculated:     450742603
+total number of negative square roots:           0
+total number of causality violations:        33706
+total number of headwave stencils used:         35
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 63508890     B:   293074    B2:   995407     C:      750
+    C2:        0    C1:     3470    D2:       16    D1:       19
+percentages:
+     A:  98.005     B:   0.452    B2:   1.536     C:   0.001
+    C2:   0.000    C1:   0.005    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225535243
+total number of negative square roots:           0
+total number of causality violations:        16643
+total number of headwave stencils used:         35
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31659821     B:   200910    B2:   577369     C:      555
+    C2:        0    C1:     2536    D2:       16    D1:       19
+percentages:
+     A:  97.591     B:   0.619    B2:   1.780     C:   0.002
+    C2:   0.000    C1:   0.008    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225535243
+total number of negative square roots:           0
+total number of causality violations:        16643
+total number of headwave stencils used:         35
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31659821     B:   200910    B2:   577369     C:      555
+    C2:        0    C1:     2536    D2:       16    D1:       19
+percentages:
+     A:  97.591     B:   0.619    B2:   1.780     C:   0.002
+    C2:   0.000    C1:   0.008    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225408688
+total number of negative square roots:           0
+total number of causality violations:        31450
+total number of headwave stencils used:         35
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31649491     B:   318825    B2:   469747     C:      564
+    C2:        0    C1:     2564    D2:       16    D1:       19
+percentages:
+     A:  97.559     B:   0.983    B2:   1.448     C:   0.002
+    C2:   0.000    C1:   0.008    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225408688
+total number of negative square roots:           0
+total number of causality violations:        31450
+total number of headwave stencils used:         35
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31649491     B:   318825    B2:   469747     C:      564
+    C2:        0    C1:     2564    D2:       16    D1:       19
+percentages:
+     A:  97.559     B:   0.983    B2:   1.448     C:   0.002
+    C2:   0.000    C1:   0.008    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225535243
+total number of negative square roots:           0
+total number of causality violations:        16643
+total number of headwave stencils used:         35
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31659821     B:   200910    B2:   577369     C:      555
+    C2:        0    C1:     2536    D2:       16    D1:       19
+percentages:
+     A:  97.591     B:   0.619    B2:   1.780     C:   0.002
+    C2:   0.000    C1:   0.008    D2:   0.000    D1:   0.000
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225432915
+total number of negative square roots:           0
+total number of causality violations:        65222
+total number of headwave stencils used:       1294
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31615011     B:   286646    B2:   534915     C:      555
+    C2:        0    C1:     2805    D2:     1085    D1:      209
+percentages:
+     A:  97.453     B:   0.884    B2:   1.649     C:   0.002
+    C2:   0.000    C1:   0.009    D2:   0.003    D1:   0.001
+
+>>>  iteration:     1
+----------------------------------------------------------------------
+total number of sources:                         1
+total number of nodes timed:              32441301
+total number of nodes plotted:                   0
+total number of stencils calculated:     225453217
+total number of negative square roots:           0
+total number of causality violations:        54510
+total number of headwave stencils used:       1186
+total number of reverse propagations:            0
+number of nodes timed with each stencil for all shots:
+     A: 31617988     B:   276782    B2:   542190     C:      546
+    C2:        0    C1:     2534    D2:      928    D1:      258
+percentages:
+     A:  97.462     B:   0.853    B2:   1.671     C:   0.002
+    C2:   0.000    C1:   0.008    D2:   0.003    D1:   0.001

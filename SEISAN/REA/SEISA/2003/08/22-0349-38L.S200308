@@ -1,0 +1,58 @@
+ 2003  822 0349 38.3 L  56.643  11.571 11.8  TES  5 0.7 2.5LTES 3.3CTES        1
+ GAP=111        3.38       7.7    13.4 13.9  0.3445E+02 -0.4443E+01 -0.1667E+02E
+ ACTION:UP  11-12-19 12:58 OP:ke   STATUS:               ID:20030822034938 L   I
+ NET WAV EVE COP_CFTP R0109_2003_08_22_0336_00T.COP_03_C         TRANSFERRED   3
+ NET WAV EVE COP_CFTP 2003-08-22-0336-00S.COP___003              AUTOPICK      3
+ 2003-08-22-0336-00S.COP___003                                                 6
+ 2003  822  337  0   L                      *BSD  1                            1
+ NET WAV EVE BSD_CFTP R0857_2003_08_22_0337_00T.BSD_03_C         TRANSFERRED   3
+ NET WAV EVE BSD_CFTP 2003-08-22-0337-00S.BSD___003              AUTOPICK      3
+ 2003-08-22-0337-00S.BSD___003                                                 6
+ 2003  822  339  0   L                      *MUD  1                            1
+ NET WAV EVE MUD_CFTP R0063_2003_08_22_0339_00T.BSD_03_C         TRANSFERRED   3
+ NET WAV EVE MUD_CFTP 2003-08-22-0339-00S.MUD___003              AUTOPICK      3
+ 2003-08-22-0339-00S.MUD___003                                                 6
+ 2003  822  349 40.5 L  56.610  11.462 39.8  DA         3.2LDA                 1
+ pv: DA is dalist, modified hypo71 location:                                   3
+ pv:    y  m  d  h  m    s   deg min N  deg  min E  depth  Ml                  3
+ pv:    03 08 22 03 49 40.5  56  36.64  11  27.7    39.8  3.2                  3
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ COP  HZ IP        349 59.44                              66    1.9610  119 153 
+ COP  HN IS        350 13.57                              66    2.0910  119 153 
+ MUD  HZ IPn       350  2.14                              49   -0.9010  149 263 
+ MUD  HZ IPg       350  3.77                              95    0.8610  149 263 
+ MUD  HE IS        350 18.89                              66   -0.3210  149 263 
+ BSD  HZ IPN       350 16.89                              49   -1.2010  270 128 
+ BSD  HZ IPG       350 22.09                              93   -0.6810  270 128 
+ BSD  HZ I    4    350 22.13                                            270 128 
+ BSD  HN ES        350 45.62                              49   -1.5110  270 128 
+ BSD  HE ES   4    350 52.71                              49    5.58 0  270 128 
+ BSD  HN ISG       350 54.28                              93   -0.9610  270 128 
+ BSD  HZ E    4    350 59.67        57.0  0.3                           270 128 
+ KONO BZ EP        350 27.39  199                         49   -1.2610  354 342 
+ KONO BZ ESg  4    351 16.97                              92   -2.40 0  354 342 
+ KONO BZ  AML 4    351 22.77       149.0 0.40                           354 342 
+ HFS  SZ  Pn      0350 35.25                  204.4 10.6  49  6-0.1010  408  17 
+ HFS  SZ  Pg      0350 45.90                  197.1  8.2  92 -1 0.3310  408  17 
+ HFS  SZ  Sn      0351 18.68                  209.1  6.4  49 10 1.6810  408  17 
+ HFS  SZ  Lg  4   0351 33.65                  208.2  3.5   0 10 1.98 0  408  17 
+ KMY  SZ EP   4    350 41.79                              49   -1.39 0  471 310 
+ KMY  SZ ES   4    351 27.13                              49   -3.41 0  471 310 
+ KMY  SZ  AML 4    351 30.50        14.4 0.80                           471 310 
+ EGD  SZ EP   4    350 50.95                              49   -1.76 0  548 320 
+ EGD  SZ ES   4    351 45.32                              49   -1.72 0  548 320 
+ EGD  SZ  AML 4    352 26.59         9.6 0.68                           548 320 
+ ASK  SZ EP   4    350 53.36                              46   -1.58 0  566 322 
+ ASK  SZ ES   4    351 47.67                              46   -3.21 0  566 322 
+ ASK  SZ  AML 4    352 40.06        11.1 0.68                           566 322 
+ FIA0 SZ  Pn  4   0351 47.07                  252.2  9.0  49  9-0.29 0  986  51 
+ FIA0 SZ  Sn  4   0353 21.50                              49   -0.07 0  986  51 
+ FIN      Pn  4    351 49.2                               49   -50.0 0 1403 191 
+ FIN      Sn  4    353 38.1                               49   -73.2 0 1403 191 
+ FIN      S   4    353 44.4                               46   -56.9 0 1403 191 
+ ARA0 SZ  P   4   0352 55.93                  209.4  8.4  46 -2 0.26 0 1592  20 
+ ARC      Pn  4    352 55.8                               49   -99.9 0 8428 327 
+ ARC      P   4    353 03.3                               46   -99.9 0 8428 327 
+ ARC      P   4    353 08.3                               46   -99.9 0 8428 327 
+ ARC      Lg  4    357 15.0                                0   -99.9 0 8428 327 
+                                                                                

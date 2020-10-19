@@ -1,0 +1,3 @@
+TPZ_twt:            X = Easting, Y = Northing, Z = to way time
+TPZ_ave_int_vel:    X = Easting, Y = Northing, Z = average interval velocity (km/z)
+

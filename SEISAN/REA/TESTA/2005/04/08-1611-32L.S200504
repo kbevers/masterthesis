@@ -1,0 +1,11 @@
+ 2005  4 8 0059 59.9 L  58.276  11.108 15.0  TES  3 0.0                        1
+ GAP=184        0.29       1.7    13.6  6.4 -0.1987E+02 -0.8394E+02  0.8316E+01E
+ ACTION:UP  11-11-29 21:49 OP:ke   STATUS:               ID:20050408161132 L   I
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ MUD      Pg      0100 38.55                              94    0.0210  234 211 
+ MUD      Sg      0101 06.69                              94   -0.0210  234 211 
+ HFS      P       0100 37.48                              49    0.0210  254  34 
+ HFS      S       0101 04.84                              49   -0.0310  254  34 
+ COP      P       0100 43.10                              49    0.0210  300 164 
+ COP      S       0101 14.57                              49   -0.0110  300 164 
+                                                                                
